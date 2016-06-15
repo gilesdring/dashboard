@@ -1,0 +1,12 @@
+title: ODI Leeds Dashboard
+
+collections:
+  - panels
+
+defaults:
+  - scope:
+      path: ""
+      type: panels
+    values:
+      layout: panel
+      template: boxholder.html
