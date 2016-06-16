@@ -6,7 +6,7 @@ order: 40
 start: 1
 end: 1
 data:
-  src: data/revenue.csv
+  src: /data/revenue.csv
   details: revenue table
 summary: number
 detail: graph

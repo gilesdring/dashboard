@@ -6,7 +6,7 @@ order: 30
 start: 2
 end: 3
 data:
-  src: data/sponsors.csv
+  src: /data/sponsors.csv
   description: table of sponsors
 summary: number
 detail: icons

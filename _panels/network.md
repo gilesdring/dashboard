@@ -6,7 +6,7 @@ order: 50
 start: 1
 end: 2
 data:
-  src: data/network.csv
+  src: /data/network.csv
   description: data about our network
 summary: number
 detail: icons

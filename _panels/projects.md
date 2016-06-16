@@ -6,7 +6,7 @@ order: 60
 start: 1
 end: 2
 data:
-  source: data/projects.csv
+  src: /data/projects.csv
   description:
 summary: number
 detail: list

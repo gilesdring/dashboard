@@ -6,7 +6,7 @@ order: 70
 start: 1
 end: 2
 data:
-  src: data/partners.csv
+  src: /data/partners.csv
   description: data about our partners
 summary: number
 detail: icons

@@ -6,7 +6,7 @@ order: 80
 start: 1
 end: 1
 data:
-  src: data/socialmedia.csv
+  src: /data/socialmedia.csv
   description: twitter stats
 summary: number
 detail: graph

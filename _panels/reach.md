@@ -6,7 +6,7 @@ order: 20
 start: 1
 end: 1
 data:
-  src: data/events_monthly.csv
+  src: /data/events_monthly.csv
   description: events data by month
 summary: number
 detail: graph
