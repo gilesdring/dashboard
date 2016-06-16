@@ -10,7 +10,7 @@ data:
   description: events data by month
 summary: number
 detail: graph
-else:
+els:
   .number:
     col: 3
     op: sum
