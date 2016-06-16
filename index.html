@@ -10,7 +10,7 @@ layout: base
 		<ul class="dashboard">
 			{% assign panels = site.panels | sort: "order" %}
 			{% for panel in panels %}
-				{% include boxholder.html panel=panel %}
+				{% include {{ panel.template }} panel=panel %}
 			{% endfor %}
 			<li class="boxholder">
 				<div class="box c7-bg">

@@ -22,7 +22,8 @@ markdown: kramdown
 
 # Definition of collections
 collections:
-  - panels
+  panels:
+    description: definition of panels to be displayed on the dashboard
 
 defaults:
   - scope:
@@ -30,4 +31,4 @@ defaults:
       type: panels
     values:
       layout: panel
-      template: boxholder.html
+      template: panel.html
