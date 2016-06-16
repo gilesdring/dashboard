@@ -18,7 +18,7 @@ els:
   .graph:
     col: 2
     row: all
-    type: graph,
+    type: graph
   .lastupdated:
     col: 1
     row: last
